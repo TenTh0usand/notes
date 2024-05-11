@@ -1,5 +1,5 @@
 ---
-{"title":"新的简悦obsidian剪藏模板","dg-publish":true,"permalink":"/unlabeled/obsidian/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/unlabeled/obsidian/","title":"新的简悦obsidian剪藏模板"}
 ---
 
 本地预览版（不要直接复制，复制下边另一个）
