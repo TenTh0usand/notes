@@ -1,5 +1,5 @@
 ---
-{"title":"小白醒花","author":"10k","created":"2024-04-22 14:57:19","mdate":"2024-04-22","type":null,"rating":null,"excerpt":null,"status":null,"cssclasses":null,"tags":null,"输出平台":null,"dg-publish":true,"permalink":"/unlabeled/newbie-waking-up-the-flowers-for-the-first-time/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/unlabeled/newbie-waking-up-the-flowers-for-the-first-time/","title":"小白醒花"}
 ---
 
 **小白第7次买鲜花(pdd)，醒了一晚上花问下gemini接下来怎么处理**
