@@ -1,5 +1,5 @@
 ---
-{"title":"index","dg-publish":true,"dg-home":true,"dg-enable-search":false,"dg-pinned":true,"dg-show-local-graph":true,"dg-permalink":"home","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dgShowLocalGraph":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"index","pinned":true,"tags":["gardenEntry"],"dgShowLocalGraph":true}
 ---
 
 this is the index page
