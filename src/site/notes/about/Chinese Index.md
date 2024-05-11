@@ -1,5 +1,5 @@
 ---
-{"title":"中文主页","dg-publish":true,"permalink":"/about/chinese-index/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/about/chinese-index/","title":"中文主页"}
 ---
 
 # 10k's Digital Garden
