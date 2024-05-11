@@ -1,5 +1,5 @@
 ---
-{"title":"a sample page","dg-publish":true,"dg-enable-search":false,"dg-show-local-graph":true,"dg-permalink":"sample-page","dg-pinned":true,"dg-hide":false,"dg-hide-in-graph":true,"permalink":"/sample-page/","hideInGraph":true,"pinned":true,"dgShowLocalGraph":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"sample-page","permalink":"/sample-page/","title":"a sample page","hideInGraph":true,"pinned":true,"dgShowLocalGraph":true}
 ---
 
 ```
