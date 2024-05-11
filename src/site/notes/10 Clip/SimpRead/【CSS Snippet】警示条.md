@@ -1,5 +1,5 @@
 ---
-{"title":"[转载]【CSS Snippet】警示条","tags":["simpread","clipping"],"dg-publish":true,"permalink":"/10-clip/simp-read/css-snippet/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/10-clip/simp-read/css-snippet/","title":"[转载]【CSS Snippet】警示条","tags":["simpread","clipping"]}
 ---
 
 
