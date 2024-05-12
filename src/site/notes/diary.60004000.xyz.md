@@ -2,15 +2,14 @@
 {"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"index","pinned":true,"tags":["gardenEntry"],"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
-this is the index page
-
 # 10k's Digital Garden
 
 ## Welcome to My Digital Garden!
+[[about/Chinese Index\|Chinese Index]]
 
 ![](https://10kcos1-1306082059.cos.ap-shanghai.myqcloud.com/pic-1/202310242227423.png)
 
-## 🌱 About Me [[Chinese Index\|Chinese Index]]
+## 🌱 About Me 
 
 In a Nutshell  
 I am a **21-year-old student** at **Dalian Medical University**. In my free time, I wear multiple hats as a **content creator** on platforms like **Bilibili** (10k的温馨小窝) and as an **xlog user**. My interests intersect at the crossroads of **gaming** (especially Kovaaks) and **IT**.
