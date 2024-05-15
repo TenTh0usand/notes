@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/11-templates/templates4-obsidian/diary-template/","tags":["Diary","written_by_10k","10k原创"]}
+{"dg-publish":true,"permalink":"/11-templates/templates4-obsidian/diary-template/","tags":["Diary","10k原创"]}
 ---
 
 
