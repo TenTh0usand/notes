@@ -5,7 +5,7 @@
 # 10k's Digital Garden
 
 ## Welcome to My Digital Garden!
-[[about/Chinese Index\|Chinese Index]]
+中文主页 → [[about/Chinese Index\|Chinese Index]]
 
 ![](https://10kcos1-1306082059.cos.ap-shanghai.myqcloud.com/pic-1/202310242227423.png)
 
